@@ -1,9 +1,85 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "bonsais": [
+    {
+      "id": 1,
+      "name": "Ficus Ginseng Kokedama",
+      "description": "One of the most beautiful and elegant plants. Its trunk and its particular aerial roots make it a perfect match for the kokedama.",
+      "cares": "Bright room, indirect sunlight, avoid direct air sources, low water requirement.",
+      "music": "Soul/Jazz",
+      "price": 39.99,
+      "image": "./assets/kokedama.jpeg"
+    },
+    {
+      "id": 2,
+      "name": "Juniperus",
+      "description": "This bonsai species is very suitable for deadwood designs and looks great with whatever you like.",
+      "cares": "Outdoors, brightly lit site, organic fertiliser; make sure to pinch out long shoots to develop leafy clouds.",
+      "music": "Dodecaphonic",
+      "price": 49.99,
+      "image": "./assets/junipero.webp"
+    },
+    {
+      "id": 3,
+      "name": "Carmona Microphylla",
+      "description": "Bonsai Carmona is also known as 'scorpion tree' because of the way its branches grow, resembling the shape of a scorpion.",
+      "cares": "Indoors, low temperatures, natural lighting, abundant watering.",
+      "music": "Classic",
+      "price": 39.99,
+      "image": "./assets/carmona.avif"
+    },
+    {
+      "id": 4,
+      "name": "Kotate Mochi",
+      "description": "Size between 15 and 30 cm. Lush forest style, reminiscent of the cool tree in Avatar.",
+      "cares": "Definitely needs a lot of water in order to keep alive that nice moss that covers its roots.",
+      "music": "Blues",
+      "price": 19.99,
+      "image": "./assets/kotate.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Empire Ficus",
+      "description": "Easy to maintain. His little leafy style make it looks like it would rather be dead.",
+      "cares": "Do not let his emaciated appearance fool you: his resistance to adversity is truly impressive.",
+      "music": "Instrumental Pop",
+      "price": 29.99,
+      "image": "./assets/empire.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Maple",
+      "description": "Its amazing shades of red, orange and yellow make it a perfect choice for anyone who would like to experience fall vibes all year.",
+      "cares": "Does not necessarily need a lot of attention and care, but you will give it to it anyway.",
+      "music": "Celtic",
+      "price": 29.99,
+      "image": "./assets/maple.jpeg"
+    },
+    {
+      "name": "hola",
+      "price": 4000,
+      "cares": "jkndskjndas",
+      "music": "Other",
+      "description": "sndkjasndandand",
+      "image": "https://images.unsplash.com/photo-1599598177991-ec67b5c37318?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Ym9uc2FpfGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+      "id": 7
+    },
+    {
+      "name": "Felipe Bonsai",
+      "price": 2000,
+      "care": "NO necesita cuidados",
+      "music": "Jazz+Funk",
+      "description": "blablab",
+      "image": "https://cdn.shopify.com/s/files/1/0013/9506/4905/products/ficus-ginseng-kokedama-721820_1080x.jpg?v=1665712709",
+      "id": 8
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
+  "illustrations": [
+    {
+      "name": "",
+      "price": 0,
+      "styles": "aleatorio",
+      "author": ""
+    }
   ],
-  "profile": { "name": "typicode" }
+  "users": []
 }
